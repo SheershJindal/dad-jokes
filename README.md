@@ -16,18 +16,6 @@ Install npm basic modules to run. Use -
 
 ### `npm install`
 
-
-You also need axios and uuid modules.
-
-
-For axios use -
-
-### `npm install -g axios`
-
-For uuid use -
-
-### `npm install -g uuid`
-
 Now run npm local server -
 
 ### `npm start`
